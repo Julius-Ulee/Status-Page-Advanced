@@ -3,12 +3,18 @@ owner: Julius-Ulee # Your GitHub organization or username, where this repository
 repo: Status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Amelia
+    url: https://ameliabot.dev/
+    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name: Sakai Wolford
+    url: https://sakaibot-discord.uzumekiulee.repl.co/
+    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name: Crypto Mining
+    url: https://julius-ulee.github.io/Crypto-Mining/
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
+  - name: Blog Post
+    url: https://julius-ulee.github.io/year-archive/
+    icon: https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

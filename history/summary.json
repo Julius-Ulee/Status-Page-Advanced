@@ -5,18 +5,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "amelia-bot",
     "status": "down",
-    "uptime": "91.55%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "91.55%",
-    "time": 2556,
-    "timeDay": 2556,
-    "timeWeek": 2556,
-    "timeMonth": 2556,
-    "timeYear": 2556,
+    "uptime": "87.27%",
+    "uptimeDay": "87.27%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "87.27%",
+    "uptimeYear": "87.27%",
+    "time": 3435,
+    "timeDay": 3435,
+    "timeWeek": 3435,
+    "timeMonth": 3435,
+    "timeYear": 3435,
     "dailyMinutesDown": {
-      "2023-09-04": 9
+      "2023-09-04": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "85.60%",
-    "uptimeDay": "85.60%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "85.60%",
-    "uptimeYear": "85.60%",
+    "uptime": "81.60%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "81.60%",
+    "uptimeMonth": "81.60%",
+    "uptimeYear": "81.60%",
     "time": 1106,
     "timeDay": 1106,
     "timeWeek": 1106,
     "timeMonth": 1106,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-09-04": 15
+      "2023-09-04": 20
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 62,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mining",
+    "url": "https://mining.uzumekiulee.repl.co",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+    "slug": "mining",
+    "status": "down",
+    "uptime": "83.59%",
+    "uptimeDay": "83.59%",
+    "uptimeWeek": "83.59%",
+    "uptimeMonth": "83.59%",
+    "uptimeYear": "83.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   }
 ]

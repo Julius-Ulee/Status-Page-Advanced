@@ -29,6 +29,7 @@ status-website:
   theme: night
   name: King Network System Status
   introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
+  introMessage: "On this page you can monitor the status of systems supported by King. Statistics for the student book system are provided for informational purposes – King does not maintain or have access to the respective infrastructure."
   navbar:
     - title: Status
       href: /

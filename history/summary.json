@@ -4,19 +4,19 @@
     "url": "https://ameliabot.dev/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "amelia-bot",
-    "status": "down",
-    "uptime": "87.21%",
-    "uptimeDay": "87.21%",
-    "uptimeWeek": "87.21%",
-    "uptimeMonth": "87.21%",
-    "uptimeYear": "87.21%",
-    "time": 3435,
-    "timeDay": 3435,
-    "timeWeek": 3435,
-    "timeMonth": 3435,
-    "timeYear": 3435,
+    "status": "up",
+    "uptime": "74.89%",
+    "uptimeDay": "74.89%",
+    "uptimeWeek": "74.89%",
+    "uptimeMonth": "74.89%",
+    "uptimeYear": "74.89%",
+    "time": 3294,
+    "timeDay": 3294,
+    "timeWeek": 3294,
+    "timeMonth": 3294,
+    "timeYear": 3294,
     "dailyMinutesDown": {
-      "2023-09-04": 14
+      "2023-09-04": 32
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sakaibot-discord.uzumekiulee.repl.co/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
-    "status": "down",
-    "uptime": "81.53%",
-    "uptimeDay": "81.53%",
-    "uptimeWeek": "81.53%",
-    "uptimeMonth": "81.53%",
-    "uptimeYear": "81.53%",
-    "time": 1106,
-    "timeDay": 1106,
-    "timeWeek": 1106,
-    "timeMonth": 1106,
-    "timeYear": 1106,
+    "status": "up",
+    "uptime": "69.99%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "69.99%",
+    "uptimeMonth": "69.99%",
+    "uptimeYear": "69.99%",
+    "time": 1115,
+    "timeDay": 1115,
+    "timeWeek": 1115,
+    "timeMonth": 1115,
+    "timeYear": 1115,
     "dailyMinutesDown": {
-      "2023-09-04": 20
+      "2023-09-04": 38
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://mining.uzumekiulee.repl.co",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
-    "status": "down",
-    "uptime": "69.43%",
-    "uptimeDay": "69.43%",
-    "uptimeWeek": "69.43%",
-    "uptimeMonth": "69.43%",
-    "uptimeYear": "69.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.11%",
+    "uptimeDay": "2.11%",
+    "uptimeWeek": "2.11%",
+    "uptimeMonth": "2.11%",
+    "uptimeYear": "2.11%",
+    "time": 1319,
+    "timeDay": 1319,
+    "timeWeek": 1319,
+    "timeMonth": 1319,
+    "timeYear": 1319,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 18
     }
   }
 ]

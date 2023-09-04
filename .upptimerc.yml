@@ -18,9 +18,7 @@ sites:
   - name: Blog Post
     url: https://julius-ulee.github.io/year-archive/
     icon: https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75
-  - name: Mining
-    url: https://mining.uzumekiulee.repl.co
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

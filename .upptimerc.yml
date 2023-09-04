@@ -25,10 +25,9 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   faviconSvg: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
-  logoUrl: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
-  name: JuliusUlee's Status Website
-  introTitle: "今天 JuliusUlee 的网站又双叒叕 **崩** 了吗？"
-  introMessage: 一天最少要崩八次哦！
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: King Network System Status
+  introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
   navbar:
     - title: Status
       href: /

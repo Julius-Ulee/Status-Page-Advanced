@@ -25,7 +25,8 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   faviconSvg: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
+  theme: dark
   name: King Network System Status
   introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
   navbar:

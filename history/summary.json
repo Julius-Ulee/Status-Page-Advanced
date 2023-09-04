@@ -4,18 +4,20 @@
     "url": "https://ameliabot.dev/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "amelia-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1421,
-    "timeDay": 1421,
-    "timeWeek": 1421,
-    "timeMonth": 1421,
-    "timeYear": 1421,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2556,
+    "timeDay": 2556,
+    "timeWeek": 2556,
+    "timeMonth": 2556,
+    "timeYear": 2556,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Sakai Wolford Bot",
@@ -23,18 +25,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "93.43%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "93.43%",
     "time": 1106,
     "timeDay": 1106,
     "timeWeek": 1106,
     "timeMonth": 1106,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 6
     }
   },
   {

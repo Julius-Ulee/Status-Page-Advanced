@@ -34,10 +34,16 @@ status-website:
   introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
   introMessage: "On this page you can monitor the status of systems supported by King. Statistics for the student book system are provided for informational purposes – King does not maintain or have access to the respective infrastructure."
   navbar:
-    - title: Status
+    - title: Status page
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Sites
+      href: https://julius-ulee.github.io/
+    - title: Discord
+      href: https://discord.gg/VzUR95y
 
+i18n:
+  footer: This page is hosted on GitHub [Julius Ulee]($REPO) project since @2023-09-10, & created by [Julius Ulee](https://www.51sec.org).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

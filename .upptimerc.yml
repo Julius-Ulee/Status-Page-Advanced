@@ -32,7 +32,7 @@ status-website:
   theme: night
   name: King Network System Status
   introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
-  introMessage: "On this page you can monitor the status of systems supported by King. Statistics for the student book system are provided for informational purposes – King does not maintain or have access to the respective infrastructure."
+  introMessage: The monitoring **real-time** data from our [GitHub repository]($REPO).
   navbar:
     - title: Status page
       href: /
@@ -44,6 +44,6 @@ status-website:
       href: https://discord.gg/VzUR95y
 
 i18n:
-  footer: This page is hosted on GitHub [Julius Ulee]($REPO) project since @2023-09-10, & created by [Julius Ulee](https://www.51sec.org).
+  footer: This page is hosted on GitHub [Julius Ulee]($REPO) project since @2023-09-10, & created by [Julius Ulee](https://julius-ulee.github.io/Status/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

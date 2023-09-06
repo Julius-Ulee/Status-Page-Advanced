@@ -1,0 +1,18 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1" name=viewport> <meta content=#333333 name=theme-color> <base href=/Status/ > <link href=manifest.json rel=manifest crossorigin=use-credentials> <script>__SAPPER__={error:{message:"Not found",name:"PreloadError"},status:404,baseUrl:"/Status",preloaded:[void 0,{}]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/Status/service-worker.js');(function(){try{eval("async function x(){}");var main="/Status/client/client.efe25c5c.js"}catch(e){main="/Status/client/legacy/client.752dce9b.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/Status/client/shimport@2.0.5.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> <link href=client/client-31a52aa5.css rel=stylesheet> <title>404</title><link href=https://Julius-Ulee.github.io/Status/themes/night.css rel=stylesheet><link href=https://Julius-Ulee.github.io/Status/global.css rel=stylesheet><link href=https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg rel=icon type=image/svg><link href=/logo-192.png rel=icon type=image/png> </head> <body> <div id=sapper> <nav class=svelte-a08hsz><div class="svelte-a08hsz container"><div><a href=https://Julius-Ulee.github.io/Status class="svelte-a08hsz logo"><img alt="" class=svelte-a08hsz src=https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg> <div>King Network System Status</div></a></div> <ul class=svelte-a08hsz><li><a href=/ class=svelte-a08hsz target=_self>Status page</a> <li><a href=https://github.com/Julius-Ulee/Status class=svelte-a08hsz target=_self>GitHub</a> <li><a href=https://julius-ulee.github.io/ class=svelte-a08hsz target=_self>Sites</a> <li><a href=https://discord.gg/VzUR95y class=svelte-a08hsz target=_self>Discord</a> </li> </ul></div> </nav> <main class=container> <h1 class=svelte-17w3omn>404</h1> <p class=svelte-17w3omn>Not found</p> </main> <footer class=svelte-jbr799><p>This page is hosted on GitHub <a href=https://github.com/Julius-Ulee/Status>Julius Ulee</a> project since @2023-09-10, & created by <a href=https://julius-ulee.github.io/Status/ >Julius Ulee</a>.</p> </footer></div> <script> try {
+        if (typeof window !== "undefined" && window.navigator && navigator.serviceWorker) {
+          navigator.serviceWorker.getRegistrations().then(function (registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          });
+        }
+        if (typeof window !== "undefined" && "caches" in window) {
+          caches.keys().then(function (keyList) {
+            return Promise.all(
+              keyList.map(function (key) {
+                return caches.delete(key);
+              })
+            );
+          });
+        }
+      } catch (error) {} </script> 

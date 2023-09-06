@@ -32,7 +32,7 @@ status-website:
   theme: night
   name: King Network System Status
   introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
-  introMessage: The monitoring **real-time** data from our [GitHub repository]($REPO).
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
   navbar:
     - title: Status page
       href: /

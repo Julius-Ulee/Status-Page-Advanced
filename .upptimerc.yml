@@ -35,7 +35,7 @@ status-website:
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
   navbar:
     - title: Status page
-      href: /
+      href: /Status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Sites

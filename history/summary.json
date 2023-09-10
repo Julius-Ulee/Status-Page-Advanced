@@ -1,52 +1,5 @@
 [
   {
-    "name": "Amelia Bot",
-    "url": "https://ameliabot.dev/",
-    "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
-    "slug": "amelia-bot",
-    "status": "down",
-    "uptime": "94.50%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "94.50%",
-    "time": 2843,
-    "timeDay": 965,
-    "timeWeek": 2843,
-    "timeMonth": 2843,
-    "timeYear": 2843,
-    "dailyMinutesDown": {
-      "2023-09-10": 0,
-      "2023-09-09": 23,
-      "2023-09-08": 281,
-      "2023-09-07": 73,
-      "2023-09-04": 99
-    }
-  },
-  {
-    "name": "Sakai Wolford Bot",
-    "url": "https://sakaibot-discord.uzumekiulee.repl.co/",
-    "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
-    "slug": "sakai-wolford-bot",
-    "status": "down",
-    "uptime": "95.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
-    "time": 2276,
-    "timeDay": 821,
-    "timeWeek": 2276,
-    "timeMonth": 2276,
-    "timeYear": 2276,
-    "dailyMinutesDown": {
-      "2023-09-10": 0,
-      "2023-09-08": 278,
-      "2023-09-07": 97,
-      "2023-09-04": 38
-    }
-  },
-  {
     "name": "Crypto Mining",
     "url": "https://julius-ulee.github.io/Crypto-Mining/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
@@ -57,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 32,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 85,
+    "timeDay": 30,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -75,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
+    "time": 51,
     "timeDay": 9,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {}
   },
   {
@@ -93,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
+    "time": 55,
     "timeDay": 12,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]

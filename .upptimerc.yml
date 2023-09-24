@@ -3,6 +3,9 @@ owner: Julius-Ulee # Your GitHub organization or username, where this repository
 repo: Status # The name of this repository
 
 sites:
+  - name: AmeliaBot Discord
+    url: https://ameliabot-discord.uzumekiulee.repl.co
+    icon: https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219
   - name: Crypto Mining
     url: https://julius-ulee.github.io/Crypto-Mining/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png

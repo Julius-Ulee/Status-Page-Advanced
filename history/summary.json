@@ -1,5 +1,23 @@
 [
   {
+    "name": "AmeliaBot Discord",
+    "url": "https://ameliabot-discord.uzumekiulee.repl.co",
+    "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219",
+    "slug": "amelia-bot-discord",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Crypto Mining",
     "url": "https://julius-ulee.github.io/Crypto-Mining/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
@@ -11,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 41,
-    "timeWeek": 69,
+    "timeDay": 78,
+    "timeWeek": 73,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -29,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 8,
-    "timeWeek": 39,
+    "timeDay": 49,
+    "timeWeek": 44,
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {}
@@ -47,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 8,
-    "timeWeek": 46,
+    "timeDay": 57,
+    "timeWeek": 53,
     "timeMonth": 55,
     "timeYear": 55,
     "dailyMinutesDown": {}

@@ -4,19 +4,19 @@
     "url": "https://ameliabot-discord.uzumekiulee.repl.co",
     "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219",
     "slug": "amelia-bot-discord",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
-    "time": 7000,
-    "timeDay": 12702,
-    "timeWeek": 7000,
-    "timeMonth": 7000,
-    "timeYear": 7000,
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
+    "time": 6192,
+    "timeDay": 9863,
+    "timeWeek": 6192,
+    "timeMonth": 6192,
+    "timeYear": 6192,
     "dailyMinutesDown": {
-      "2023-09-27": 36
+      "2023-09-27": 48
     }
   },
   {

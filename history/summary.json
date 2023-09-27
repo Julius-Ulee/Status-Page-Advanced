@@ -4,18 +4,20 @@
     "url": "https://ameliabot-discord.uzumekiulee.repl.co",
     "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219",
     "slug": "amelia-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6490,
-    "timeDay": 22063,
-    "timeWeek": 6490,
-    "timeMonth": 6490,
-    "timeYear": 6490,
-    "dailyMinutesDown": {}
+    "time": 8207,
+    "timeDay": 18569,
+    "timeWeek": 8207,
+    "timeMonth": 8207,
+    "timeYear": 8207,
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "Crypto Mining",

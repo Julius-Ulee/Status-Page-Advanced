@@ -5,18 +5,18 @@
     "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219",
     "slug": "amelia-bot-discord",
     "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
-    "time": 6192,
-    "timeDay": 9863,
-    "timeWeek": 6192,
-    "timeMonth": 6192,
-    "timeYear": 6192,
+    "uptime": "99.38%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 5517,
+    "timeDay": 4545,
+    "timeWeek": 5517,
+    "timeMonth": 5517,
+    "timeYear": 5517,
     "dailyMinutesDown": {
-      "2023-09-27": 48
+      "2023-09-27": 36
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 115,
-    "timeWeek": 81,
+    "timeDay": 55,
+    "timeWeek": 85,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 52,
-    "timeDay": 65,
+    "time": 51,
+    "timeDay": 10,
     "timeWeek": 51,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 81,
+    "time": 55,
+    "timeDay": 12,
     "timeWeek": 52,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]

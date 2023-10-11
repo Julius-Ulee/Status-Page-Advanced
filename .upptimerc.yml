@@ -3,6 +3,9 @@ owner: Julius-Ulee # Your GitHub organization or username, where this repository
 repo: Status # The name of this repository
 
 sites:
+  - name: School Programs
+    url: https://julius-ulee.github.io/School-Programs/
+    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: AmeliaBot Discord
     url: https://ameliabot-discord.uzumekiulee.repl.co
     icon: https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Discord.png/revision/latest?cb=20210620182219
@@ -11,10 +14,10 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
   - name: Portfolio
     url: https://julius-ulee.github.io/
-    icon: https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75
+    icon: https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
   - name: Blog Post
     url: https://julius-ulee.github.io/year-archive/
-    icon: https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75
+    icon: https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

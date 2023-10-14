@@ -33,7 +33,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Sites
-      href: https://julius-ulee.github.io/
+      href: https://julius-ulee.github.io/School-Programs/
     - title: Discord
       href: https://discord.gg/VzUR95y
 

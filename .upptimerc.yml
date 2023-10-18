@@ -24,19 +24,19 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.ameliabot.dev
   baseUrl: /Status
-  faviconSvg: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
-  logoUrl: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
-  theme: night
-  name: King Network System Status
-  introTitle: "King Network is committed to creating an efficient bandwidth marketplace on Web3."
+  faviconSvg: https://julius-ulee.github.io/School-Programs/assets/images/favicon.ico
+  logoUrl: https://julius-ulee.github.io/School-Programs/assets/images/favicon.ico
+  theme: light
+  name: School Programs Status
+  introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
   navbar:
-    - title: Status page
+    - title: Home
       href: /Status
+    - title: School Programs
+      href: https://julius-ulee.github.io/School-Programs/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Sites
-      href: https://julius-ulee.github.io/School-Programs/
     - title: Discord
       href: https://discord.gg/VzUR95y
 

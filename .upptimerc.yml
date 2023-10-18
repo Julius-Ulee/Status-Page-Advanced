@@ -6,6 +6,12 @@ sites:
   - name: School Programs
     url: https://julius-ulee.github.io/School-Programs/
     icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
+  - name: School Programs Courses
+    url: https://julius-ulee.github.io/School-Programs/courses/
+    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
+  - name: School Programs Educations & Articles
+    url: https://julius-ulee.github.io/School-Programs/posts/
+    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: AmeliaBot Discord
     url: https://ameliabot-discord.uzumekiulee.repl.co
     icon: https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png

@@ -9,7 +9,7 @@ sites:
   - name: School Programs Courses
     url: https://julius-ulee.github.io/School-Programs/courses/
     icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
-  - name: School Programs Educations & Articles
+  - name: School Programs Posts
     url: https://julius-ulee.github.io/School-Programs/posts/
     icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: AmeliaBot Discord

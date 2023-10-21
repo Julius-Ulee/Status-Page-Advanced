@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 77,
     "timeDay": 161,
-    "timeWeek": 78,
+    "timeWeek": 80,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://julius-ulee.github.io/School-Programs/courses/",
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "school-programs-courses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 93,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
-    "dailyMinutesDown": {}
+    "time": 43,
+    "timeDay": 52,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
+    "dailyMinutesDown": {
+      "2023-10-21": 0
+    }
   },
   {
     "name": "School Programs Posts",
@@ -61,7 +63,7 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.84%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 6120,
@@ -101,7 +103,7 @@
     "uptimeYear": "99.96%",
     "time": 175,
     "timeDay": 92,
-    "timeWeek": 35,
+    "timeWeek": 36,
     "timeMonth": 261,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -121,7 +123,7 @@
     "uptimeYear": "99.96%",
     "time": 47,
     "timeDay": 127,
-    "timeWeek": 45,
+    "timeWeek": 46,
     "timeMonth": 44,
     "timeYear": 47,
     "dailyMinutesDown": {
@@ -141,7 +143,7 @@
     "uptimeYear": "99.96%",
     "time": 50,
     "timeDay": 87,
-    "timeWeek": 43,
+    "timeWeek": 44,
     "timeMonth": 45,
     "timeYear": 50,
     "dailyMinutesDown": {

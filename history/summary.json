@@ -23,16 +23,16 @@
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "school-programs-courses",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 43,
-    "timeDay": 37,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43,
+    "uptime": "99.37%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 41,
+    "timeDay": 39,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
     "dailyMinutesDown": {
       "2023-10-21": 37
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 50,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "time": 50,
+    "timeDay": 43,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 170,
-    "timeDay": 48,
-    "timeWeek": 39,
-    "timeMonth": 246,
-    "timeYear": 170,
+    "time": 168,
+    "timeDay": 41,
+    "timeWeek": 38,
+    "timeMonth": 242,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 48,
-    "timeDay": 59,
-    "timeWeek": 50,
+    "time": 47,
+    "timeDay": 50,
+    "timeWeek": 49,
     "timeMonth": 43,
-    "timeYear": 48,
+    "timeYear": 47,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -107,47 +107,12 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 51,
-    "timeDay": 83,
-    "timeWeek": 53,
+    "timeDay": 71,
+    "timeWeek": 52,
     "timeMonth": 47,
     "timeYear": 51,
     "dailyMinutesDown": {
       "2023-10-03": 25
-    }
-  },
-  {
-    "name": "Amelia Bot Discord",
-    "url": "https://ameliabot-discord.uzumekiulee.repl.co",
-    "icon": "https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png",
-    "slug": "amelia-bot-discord",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 5744,
-    "timeDay": 857,
-    "timeWeek": 2504,
-    "timeMonth": 5744,
-    "timeYear": 5744,
-    "dailyMinutesDown": {
-      "2023-10-18": 27,
-      "2023-10-11": 381,
-      "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 142,
-      "2023-09-28": 49,
-      "2023-09-27": 36
     }
   }
 ]

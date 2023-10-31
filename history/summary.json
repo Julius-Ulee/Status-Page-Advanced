@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 39,
-    "timeWeek": 86,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 86,
+    "timeDay": 36,
+    "timeWeek": 80,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 52,
+    "time": 50,
     "timeDay": 14,
-    "timeWeek": 55,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
       "2023-10-21": 37
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 10,
-    "timeWeek": 49,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "time": 54,
+    "timeDay": 13,
+    "timeWeek": 46,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 155,
+    "time": 154,
     "timeDay": 10,
-    "timeWeek": 38,
-    "timeMonth": 226,
-    "timeYear": 155,
+    "timeWeek": 35,
+    "timeMonth": 222,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -88,29 +88,9 @@
     "uptimeYear": "99.97%",
     "time": 49,
     "timeDay": 11,
-    "timeWeek": 51,
+    "timeWeek": 47,
     "timeMonth": 46,
     "timeYear": 49,
-    "dailyMinutesDown": {
-      "2023-10-03": 25
-    }
-  },
-  {
-    "name": "Blog Post",
-    "url": "https://julius-ulee.github.io/year-archive/",
-    "icon": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
-    "slug": "blog-post",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 52,
-    "timeDay": 14,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 52,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }

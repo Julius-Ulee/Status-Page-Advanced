@@ -18,7 +18,7 @@ sites:
   - name: Portfolio
     url: https://julius-ulee.github.io/
     icon: https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
-  - name: AmeliaBot
+  - name: Amelia Bot
     url: https://ameliabot-discord.uzumekiulee.repl.co
     icon: https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png
 

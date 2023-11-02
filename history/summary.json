@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 128,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 86,
+    "timeDay": 91,
+    "timeWeek": 83,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 51,
-    "timeDay": 73,
-    "timeWeek": 57,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 50,
+    "timeDay": 45,
+    "timeWeek": 53,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
       "2023-10-21": 37
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 58,
-    "timeDay": 143,
-    "timeWeek": 60,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "time": 56,
+    "timeDay": 80,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 152,
-    "timeDay": 22,
-    "timeWeek": 37,
-    "timeMonth": 221,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 20,
+    "timeWeek": 35,
+    "timeMonth": 217,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -86,13 +86,39 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 49,
-    "timeDay": 56,
-    "timeWeek": 52,
-    "timeMonth": 46,
-    "timeYear": 49,
+    "time": 48,
+    "timeDay": 36,
+    "timeWeek": 48,
+    "timeMonth": 45,
+    "timeYear": 48,
     "dailyMinutesDown": {
       "2023-10-03": 25
+    }
+  },
+  {
+    "name": "AmeliaBot",
+    "url": "https://ameliabot-discord.uzumekiulee.repl.co",
+    "icon": "https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png",
+    "slug": "amelia-bot",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 2797,
+    "timeDay": 967,
+    "timeWeek": 967,
+    "timeMonth": 967,
+    "timeYear": 2797,
+    "dailyMinutesDown": {
+      "2023-09-12": 1017,
+      "2023-09-11": 1440,
+      "2023-09-10": 799,
+      "2023-09-09": 23,
+      "2023-09-08": 281,
+      "2023-09-07": 73,
+      "2023-09-04": 99
     }
   }
 ]

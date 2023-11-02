@@ -18,9 +18,9 @@ sites:
   - name: Portfolio
     url: https://julius-ulee.github.io/
     icon: https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
- # - name: AmeliaBot Discord
- #   url: https://ameliabot-discord.uzumekiulee.repl.co
- #   icon: https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png
+  - name: AmeliaBot
+    url: https://ameliabot-discord.uzumekiulee.repl.co
+    icon: https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

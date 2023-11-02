@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 91,
-    "timeWeek": 85,
+    "timeDay": 83,
+    "timeWeek": 82,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 50,
-    "timeDay": 51,
-    "timeWeek": 54,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "time": 49,
+    "timeDay": 43,
+    "timeWeek": 50,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2023-10-21": 37
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 68,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "time": 55,
+    "timeDay": 57,
+    "timeWeek": 52,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 150,
-    "timeDay": 41,
-    "timeWeek": 40,
-    "timeMonth": 212,
-    "timeYear": 150,
+    "time": 148,
+    "timeDay": 34,
+    "timeWeek": 37,
+    "timeMonth": 208,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -87,52 +87,12 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 49,
-    "timeDay": 59,
-    "timeWeek": 54,
+    "timeDay": 50,
+    "timeWeek": 51,
     "timeMonth": 46,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2023-10-03": 25
-    }
-  },
-  {
-    "name": "AmeliaBot Discord",
-    "url": "https://ameliabot-discord.uzumekiulee.repl.co",
-    "icon": "https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png",
-    "slug": "amelia-bot-discord",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 4535,
-    "timeDay": 885,
-    "timeWeek": 2655,
-    "timeMonth": 3436,
-    "timeYear": 4535,
-    "dailyMinutesDown": {
-      "2023-10-31": 57,
-      "2023-10-30": 32,
-      "2023-10-28": 18,
-      "2023-10-26": 17,
-      "2023-10-24": 19,
-      "2023-10-18": 27,
-      "2023-10-11": 381,
-      "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 142,
-      "2023-09-28": 49,
-      "2023-09-27": 36
     }
   }
 ]

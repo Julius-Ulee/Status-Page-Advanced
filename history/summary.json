@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 135,
-    "timeWeek": 102,
-    "timeMonth": 102,
+    "timeDay": 120,
+    "timeWeek": 98,
+    "timeMonth": 101,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 53,
-    "timeDay": 85,
-    "timeWeek": 71,
-    "timeMonth": 56,
+    "timeDay": 70,
+    "timeWeek": 66,
+    "timeMonth": 55,
     "timeYear": 53,
     "dailyMinutesDown": {
       "2023-10-21": 37
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 97,
-    "timeWeek": 74,
-    "timeMonth": 61,
-    "timeYear": 59,
+    "time": 58,
+    "timeDay": 80,
+    "timeWeek": 69,
+    "timeMonth": 60,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 132,
-    "timeDay": 59,
-    "timeWeek": 37,
-    "timeMonth": 43,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 49,
+    "timeWeek": 35,
+    "timeMonth": 42,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -86,13 +86,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 52,
-    "timeDay": 89,
-    "timeWeek": 67,
-    "timeMonth": 62,
-    "timeYear": 52,
+    "time": 51,
+    "timeDay": 73,
+    "timeWeek": 62,
+    "timeMonth": 61,
+    "timeYear": 51,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
+  },
+  {
+    "name": "Holobytes Hunter",
+    "url": "https://julius-ulee.github.io/holobyte.github.io/",
+    "icon": "https://www.holopin.io/images/logo.png",
+    "slug": "holobytes-hunter",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
+    "dailyMinutesDown": {}
   }
 ]

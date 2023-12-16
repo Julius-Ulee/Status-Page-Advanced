@@ -60,7 +60,7 @@
     "url": "https://ameliabot-discord.uzumekiulee.repl.co",
     "icon": "https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png",
     "slug": "amelia-bot-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 835,
     "timeYear": 4321,
     "dailyMinutesDown": {
+      "2023-12-16": 0,
       "2023-10-31": 57,
       "2023-10-30": 32,
       "2023-10-28": 18,

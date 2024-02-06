@@ -4,11 +4,8 @@ repo: Status-Page-Advanced # The name of this repository
 
 sites:
   - name: School Programs
-    url: https://julius-ulee.github.io/School-Programs/
+    url: https://schoolprograms.my.id/
     icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
-  - name: Amelia Bot Discord
-    url: https://ameliabot.dev/
-    icon: https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png
   - name: Crypto Mining
     url: https://julius-ulee.github.io/Crypto-Mining/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
@@ -22,10 +19,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.ameliabot.dev
-  baseUrl: /Status-Page-Advanced
-  faviconSvg: https://julius-ulee.github.io/School-Programs/assets/images/favicon.ico
-  logoUrl: https://julius-ulee.github.io/School-Programs/assets/images/favicon.ico
+  cname: status.schoolprograms.my.id
+  baseUrl:
+  faviconSvg: https://status.schoolprograms.my.id/assets/images/favicon.ico
+  logoUrl: https://status.schoolprograms.my.id/assets/images/favicon.ico
   theme: light
   name: School Programs Status
   introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
@@ -34,7 +31,7 @@ status-website:
     - title: Home
       href: /Status-Page-Advanced
     - title: School Programs
-      href: https://julius-ulee.github.io/School-Programs/
+      href: https://schoolprograms.my.id/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Discord

@@ -4,7 +4,7 @@
     "url": "https://julius-ulee.github.io/School-Programs/",
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "school-programs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 62,
     "timeMonth": 95,
     "timeYear": 87,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   },
   {
     "name": "Amelia Bot Discord",
@@ -23,18 +25,18 @@
     "icon": "https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png",
     "slug": "amelia-bot-discord",
     "status": "down",
-    "uptime": "14.44%",
+    "uptime": "14.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.31%",
-    "uptimeYear": "14.44%",
+    "uptimeYear": "14.20%",
     "time": 3119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1068,
     "timeYear": 3119,
     "dailyMinutesDown": {
-      "2024-02-06": 27,
+      "2024-02-06": 1289,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,

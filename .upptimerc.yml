@@ -29,7 +29,7 @@ status-website:
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
   navbar:
     - title: Home
-      href: /status.schoolprograms.my.id
+      href: /
     - title: School Programs
       href: https://schoolprograms.my.id/
     - title: GitHub

@@ -21,15 +21,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.schoolprograms.my.id
   # baseUrl: /Status-Page-Advanced
-  faviconSvg: https://status.schoolprograms.my.id/assets/images/favicon.ico
-  logoUrl: https://status.schoolprograms.my.id/assets/images/favicon.ico
+  faviconSvg: https://schoolprograms.my.id/assets/images/favicon.ico
+  logoUrl: https://schoolprograms.my.id/assets/images/favicon.ico
   theme: light
   name: School Programs Status
   introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
   navbar:
     - title: Home
-      href: /Status-Page-Advanced
+      href: /status.schoolprograms.my.id
     - title: School Programs
       href: https://schoolprograms.my.id/
     - title: GitHub

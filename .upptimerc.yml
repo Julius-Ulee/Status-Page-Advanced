@@ -26,7 +26,7 @@ status-website:
   theme: light
   name: School Programs Status
   introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
-  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status).
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status-Page-Advanced).
   navbar:
     - title: Home
       href: /

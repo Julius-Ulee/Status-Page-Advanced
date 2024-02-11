@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 99,
-    "timeDay": 328,
-    "timeWeek": 233,
-    "timeMonth": 149,
-    "timeYear": 99,
+    "time": 100,
+    "timeDay": 245,
+    "timeWeek": 246,
+    "timeMonth": 153,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2024-02-06": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "ulee-online",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "uptime": "99.07%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 290,
+    "timeDay": 407,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2024-02-10": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 152,
-    "timeDay": 43,
-    "timeWeek": 52,
-    "timeMonth": 36,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 142,
+    "timeWeek": 60,
+    "timeMonth": 38,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2024-01-03": 15,
       "2023-10-03": 25
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 50,
-    "timeDay": 21,
+    "timeDay": 33,
     "timeWeek": 39,
-    "timeMonth": 46,
+    "timeMonth": 44,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2023-10-03": 25
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 23,
+    "time": 44,
+    "timeDay": 10,
     "timeWeek": 36,
-    "timeMonth": 37,
-    "timeYear": 45,
+    "timeMonth": 36,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   }
 ]

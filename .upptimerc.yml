@@ -6,9 +6,9 @@ sites:
   - name: School Programs
     url: https://schoolprograms.my.id/
     icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
-  - name: 可怜的叔叔 ✗Ulee✗ Online
-    url: https://discord-wcq0.onrender.com/
-    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name: Status School Programs
+    url: https://status.schoolprograms.my.id/
+    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: Crypto Mining
     url: https://julius-ulee.github.io/Crypto-Mining/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png

@@ -4,9 +4,9 @@
     "url": "https://schoolprograms.my.id/",
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "school-programs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 224,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2024-03-08": 0,
       "2024-02-06": 24
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://status.schoolprograms.my.id/",
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "status-school-programs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 326,
     "timeMonth": 278,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   },
   {
     "name": "Crypto Mining",

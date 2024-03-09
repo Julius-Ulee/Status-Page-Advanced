@@ -10,11 +10,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 117,
-    "timeDay": 290,
-    "timeWeek": 235,
-    "timeMonth": 230,
-    "timeYear": 117,
+    "time": 118,
+    "timeDay": 352,
+    "timeWeek": 236,
+    "timeMonth": 233,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2024-03-08": 59,
       "2024-02-06": 24
@@ -26,16 +26,16 @@
     "icon": "https://julius-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "status-school-programs",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "95.88%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 282,
-    "timeDay": 322,
-    "timeWeek": 331,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 281,
+    "timeDay": 308,
+    "timeWeek": 327,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2024-03-08": 59
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 142,
-    "timeDay": 33,
-    "timeWeek": 41,
-    "timeMonth": 56,
-    "timeYear": 142,
+    "time": 141,
+    "timeDay": 101,
+    "timeWeek": 52,
+    "timeMonth": 57,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-01-03": 15,
       "2023-10-03": 25
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
-    "timeDay": 26,
-    "timeWeek": 37,
-    "timeMonth": 40,
+    "timeDay": 101,
+    "timeWeek": 46,
+    "timeMonth": 43,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2023-10-03": 25
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 26,
-    "timeWeek": 41,
-    "timeMonth": 41,
-    "timeYear": 44,
+    "time": 45,
+    "timeDay": 91,
+    "timeWeek": 50,
+    "timeMonth": 43,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   }
 ]

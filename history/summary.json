@@ -85,17 +85,19 @@
     "url": "https://julius-ulee.github.io/holobyte.github.io/",
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 28,
-    "timeWeek": 21,
-    "timeMonth": 52,
+    "timeDay": 66,
+    "timeWeek": 31,
+    "timeMonth": 54,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   }
 ]

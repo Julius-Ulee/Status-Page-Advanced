@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 184,
-    "timeDay": 319,
-    "timeWeek": 306,
-    "timeMonth": 255,
+    "timeDay": 181,
+    "timeWeek": 288,
+    "timeMonth": 254,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2024-03-08": 59,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 340,
-    "timeWeek": 301,
-    "timeMonth": 234,
+    "timeDay": 179,
+    "timeWeek": 276,
+    "timeMonth": 236,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 142,
-    "timeWeek": 92,
+    "timeDay": 44,
+    "timeWeek": 78,
     "timeMonth": 71,
-    "timeYear": 80,
+    "timeYear": 78,
     "dailyMinutesDown": {
       "2024-01-03": 15
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
-    "timeDay": 99,
-    "timeWeek": 85,
+    "timeDay": 34,
+    "timeWeek": 76,
     "timeMonth": 56,
-    "timeYear": 48,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2024-03-12": 37
     }
@@ -86,14 +86,14 @@
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
     "status": "up",
-    "uptime": "96.97%",
+    "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 46,
-    "timeDay": 96,
-    "timeWeek": 91,
+    "timeDay": 15,
+    "timeWeek": 80,
     "timeMonth": 54,
     "timeYear": 46,
     "dailyMinutesDown": {

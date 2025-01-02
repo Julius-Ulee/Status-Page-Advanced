@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 185,
-    "timeDay": 198,
-    "timeWeek": 291,
-    "timeMonth": 272,
+    "time": 186,
+    "timeDay": 348,
+    "timeWeek": 296,
+    "timeMonth": 276,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-03-08": 59,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 130,
-    "timeWeek": 216,
-    "timeMonth": 230,
+    "timeDay": 310,
+    "timeWeek": 212,
+    "timeMonth": 236,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -51,14 +51,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 67,
-    "timeWeek": 84,
-    "timeMonth": 70,
-    "timeYear": 67,
-    "dailyMinutesDown": {
-      "2024-01-03": 15
-    }
+    "time": 83,
+    "timeDay": 28,
+    "timeWeek": 68,
+    "timeMonth": 69,
+    "timeYear": 65,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio",
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
-    "timeDay": 48,
-    "timeWeek": 59,
-    "timeMonth": 58,
+    "timeDay": 95,
+    "timeWeek": 58,
+    "timeMonth": 60,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2024-03-12": 37
@@ -92,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 46,
-    "timeDay": 32,
-    "timeWeek": 55,
-    "timeMonth": 56,
+    "timeDay": 108,
+    "timeWeek": 57,
+    "timeMonth": 58,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2024-10-17": 863,

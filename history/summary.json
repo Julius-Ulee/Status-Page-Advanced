@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 198,
-    "timeDay": 200,
-    "timeWeek": 172,
-    "timeMonth": 215,
+    "timeDay": 390,
+    "timeWeek": 203,
+    "timeMonth": 217,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 191,
-    "timeWeek": 185,
-    "timeMonth": 211,
+    "timeDay": 183,
+    "timeWeek": 188,
+    "timeMonth": 204,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 41,
-    "timeWeek": 47,
-    "timeMonth": 65,
+    "timeDay": 76,
+    "timeWeek": 51,
+    "timeMonth": 63,
     "timeYear": 61,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 50,
-    "timeDay": 14,
+    "timeDay": 17,
     "timeWeek": 39,
-    "timeMonth": 51,
-    "timeYear": 50,
+    "timeMonth": 47,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2024-03-12": 37
     }
@@ -83,16 +83,16 @@
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 46,
-    "timeDay": 9,
-    "timeWeek": 25,
-    "timeMonth": 42,
-    "timeYear": 47,
+    "timeDay": 14,
+    "timeWeek": 26,
+    "timeMonth": 40,
+    "timeYear": 46,
     "dailyMinutesDown": {
       "2024-10-17": 863,
       "2024-10-16": 1440,
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 323,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 183,
+    "timeDay": 150,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   }
 ]

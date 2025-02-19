@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 318,
-    "timeWeek": 228,
-    "timeMonth": 219,
+    "timeDay": 198,
+    "timeWeek": 238,
+    "timeMonth": 213,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 219,
-    "timeWeek": 191,
-    "timeMonth": 206,
+    "timeDay": 217,
+    "timeWeek": 211,
+    "timeMonth": 204,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 125,
-    "timeWeek": 61,
-    "timeMonth": 65,
+    "timeDay": 55,
+    "timeWeek": 64,
+    "timeMonth": 62,
     "timeYear": 61,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 50,
-    "timeDay": 100,
-    "timeWeek": 46,
-    "timeMonth": 48,
+    "timeDay": 20,
+    "timeWeek": 33,
+    "timeMonth": 45,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2024-03-12": 37
@@ -83,15 +83,15 @@
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 46,
-    "timeDay": 106,
-    "timeWeek": 35,
-    "timeMonth": 42,
+    "timeDay": 20,
+    "timeWeek": 34,
+    "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2024-10-17": 863,
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 139,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 177,
+    "timeDay": 167,
+    "timeWeek": 192,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]

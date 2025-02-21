@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 199,
-    "timeDay": 352,
-    "timeWeek": 259,
-    "timeMonth": 220,
+    "time": 200,
+    "timeDay": 366,
+    "timeWeek": 276,
+    "timeMonth": 216,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 215,
-    "timeWeek": 212,
-    "timeMonth": 207,
+    "timeDay": 233,
+    "timeWeek": 216,
+    "timeMonth": 211,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2024-03-08": 59
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 67,
-    "timeWeek": 66,
-    "timeMonth": 62,
+    "time": 86,
+    "timeDay": 65,
+    "timeWeek": 70,
+    "timeMonth": 63,
     "timeYear": 62,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 50,
-    "timeDay": 39,
+    "timeDay": 25,
     "timeWeek": 35,
-    "timeMonth": 45,
+    "timeMonth": 46,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2024-03-12": 37
@@ -83,14 +83,14 @@
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 46,
-    "timeDay": 31,
-    "timeWeek": 33,
+    "timeDay": 25,
+    "timeWeek": 34,
     "timeMonth": 39,
     "timeYear": 46,
     "dailyMinutesDown": {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 155,
+    "time": 172,
+    "timeDay": 143,
     "timeWeek": 192,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]

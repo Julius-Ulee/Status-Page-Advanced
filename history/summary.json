@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 362,
-    "timeWeek": 261,
+    "time": 205,
+    "timeDay": 355,
+    "timeWeek": 286,
     "timeMonth": 247,
-    "timeYear": 232,
-    "dailyMinutesDown": {
-      "2024-03-08": 59
-    }
+    "timeYear": 233,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status School Programs",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 310,
-    "timeWeek": 239,
-    "timeMonth": 234,
+    "timeDay": 375,
+    "timeWeek": 262,
+    "timeMonth": 232,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2024-03-08": 59
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crypto Mining",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 117,
-    "timeWeek": 78,
+    "timeDay": 139,
+    "timeWeek": 91,
     "timeMonth": 75,
     "timeYear": 63,
     "dailyMinutesDown": {}
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
-    "timeDay": 113,
-    "timeWeek": 53,
+    "timeDay": 108,
+    "timeWeek": 64,
     "timeMonth": 51,
     "timeYear": 50,
     "dailyMinutesDown": {
@@ -89,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 47,
-    "timeDay": 130,
-    "timeWeek": 52,
+    "timeDay": 126,
+    "timeWeek": 67,
     "timeMonth": 53,
-    "timeYear": 47,
+    "timeYear": 48,
     "dailyMinutesDown": {
       "2024-10-17": 863,
       "2024-10-16": 1440,
@@ -121,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 154,
+    "timeDay": 156,
     "timeWeek": 155,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   }
 ]

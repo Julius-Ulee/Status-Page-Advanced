@@ -40,54 +40,60 @@
     "url": "https://julius-ulee.github.io/Crypto-Mining/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "crypto-mining",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 130,
-    "timeWeek": 155,
-    "timeMonth": 107,
+    "timeDay": 103,
+    "timeWeek": 145,
+    "timeMonth": 106,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://julius-ulee.github.io/",
     "icon": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 80,
-    "timeWeek": 100,
-    "timeMonth": 66,
+    "timeDay": 55,
+    "timeWeek": 91,
+    "timeMonth": 65,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Holobytes Hunter",
     "url": "https://julius-ulee.github.io/holobyte.github.io/",
     "icon": "https://www.holopin.io/images/logo.png",
     "slug": "holobytes-hunter",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
-    "timeDay": 70,
-    "timeWeek": 109,
-    "timeMonth": 69,
+    "timeDay": 49,
+    "timeWeek": 99,
+    "timeMonth": 68,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Google",

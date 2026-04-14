@@ -1,5 +1,5 @@
 # Change these first
-owner: Julius-Ulee # Your GitHub organization or username, where this repository lives
+owner: King-Ulee # Your GitHub organization or username, where this repository lives
 repo: Status-Page-Advanced # The name of this repository
 
 sites:
@@ -8,18 +8,18 @@ sites:
   #   icon: https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png
   - name: School Programs
     url: https://schoolprograms.my.id/
-    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
+    icon: https://king-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: Status School Programs
     url: https://status.schoolprograms.my.id/
-    icon: https://julius-ulee.github.io/School-Programs/assets/images/stationery.png
+    icon: https://king-ulee.github.io/School-Programs/assets/images/stationery.png
   - name: Crypto Mining
-    url: https://julius-ulee.github.io/Crypto-Mining/
+    url: https://king-ulee.github.io/Crypto-Mining/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
   - name: Portfolio
-    url: https://julius-ulee.github.io/
+    url: https://king-ulee.github.io/
     icon: https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGt4aGVvazEyMTczMGZtcHA5N2xnN3p2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
   - name: Holobytes Hunter
-    url: https://julius-ulee.github.io/holobyte.github.io/
+    url: https://king-ulee.github.io/holobyte.github.io/
     icon: https://www.holopin.io/images/logo.png
   - name: Google
     url: https://google.com
@@ -34,7 +34,7 @@ status-website:
   theme: light
   name: School Programs Status
   introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
-  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/Julius-Ulee/Status-Page-Advanced).
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/King-Ulee/Status-Page-Advanced).
   navbar:
     - title: Home
       href: /
@@ -46,6 +46,6 @@ status-website:
       href: https://discord.gg/VzUR95y
 
 i18n:
-  footer: This page is hosted on GitHub [Julius Ulee]($REPO) project since @2023-09-10, & created by [Julius Ulee](https://julius-ulee.github.io/Status-Page-Advanced/).
+  footer: This page is hosted on GitHub [King Ulee]($REPO) project since @2023-09-10, & created by [King Ulee](https://king-ulee.github.io/Status-Page-Advanced/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

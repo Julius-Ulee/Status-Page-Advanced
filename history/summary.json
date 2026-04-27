@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 233,
-    "timeWeek": 252,
-    "timeMonth": 341,
-    "timeYear": 289,
+    "time": 268,
+    "timeDay": 325,
+    "timeWeek": 272,
+    "timeMonth": 344,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://king-ulee.github.io/School-Programs/assets/images/stationery.png",
     "slug": "status-school-programs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 257,
-    "timeWeek": 307,
-    "timeMonth": 331,
+    "timeDay": 360,
+    "timeWeek": 327,
+    "timeMonth": 335,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 91,
-    "timeDay": 194,
-    "timeWeek": 212,
+    "timeDay": 173,
+    "timeWeek": 204,
     "timeMonth": 154,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -56,24 +56,22 @@
     }
   },
   {
-    "name": "Portfolio",
-    "url": "https://king-ulee.github.io/",
+    "name": "Kingulee.com",
+    "url": "https://www.kingulee.com/",
     "icon": "https://kingulee.com/images/logo.png",
-    "slug": "portfolio",
-    "status": "down",
-    "uptime": "99.99%",
+    "slug": "kingulee-com",
+    "status": "up",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
-    "time": 61,
-    "timeDay": 54,
-    "timeWeek": 68,
-    "timeMonth": 76,
-    "timeYear": 63,
-    "dailyMinutesDown": {
-      "2026-04-14": 120
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Holobytes Hunter",
@@ -87,8 +85,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 58,
-    "timeDay": 43,
-    "timeWeek": 58,
+    "timeDay": 66,
+    "timeWeek": 62,
     "timeMonth": 77,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -101,18 +99,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 149,
-    "timeWeek": 162,
-    "timeMonth": 204,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 253,
+    "timeWeek": 187,
+    "timeMonth": 208,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2026-04-01": 78
-    }
+    "dailyMinutesDown": {}
   }
 ]

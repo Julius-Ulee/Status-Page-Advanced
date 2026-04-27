@@ -99,16 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.99%",
     "time": 197,
     "timeDay": 253,
     "timeWeek": 187,
     "timeMonth": 208,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-01": 78
+    }
   }
 ]

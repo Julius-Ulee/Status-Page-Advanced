@@ -6,6 +6,15 @@ sites:
   - name: Kingulee.com
     url: https://www.kingulee.com/
     icon: https://kingulee.com/images/logo.png
+  - name: Kingulee.com/belajar
+    url: https://www.kingulee.com/belajar/
+    icon: https://kingulee.com/images/logo.png
+  - name: Kingulee.com/artikel
+    url: https://www.kingulee.com/artikel/
+    icon: https://kingulee.com/images/logo.png
+  - name: Kingulee.com/lainnya
+    url: https://www.kingulee.com/lainnya/
+    icon: https://kingulee.com/images/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

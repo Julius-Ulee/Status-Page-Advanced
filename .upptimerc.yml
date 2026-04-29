@@ -12,8 +12,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: kingulee.my.id
   # baseUrl: /Status-Page-Advanced
-  faviconSvg: https://kingulee.com/images/favicon.ico
-  logoUrl: https://kingulee.com/images/favicon.ico
+  faviconSvg: https://kingulee.com/favicon.ico
+  logoUrl: https://kingulee.com/favicon.ico
   theme: night
   name: Status
   introTitle: "Monitoring Website"

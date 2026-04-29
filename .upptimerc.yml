@@ -3,37 +3,20 @@ owner: King-Ulee # Your GitHub organization or username, where this repository l
 repo: Status-Page-Advanced # The name of this repository
 
 sites:
-  # - name: Elearning SMK Negeri 34 Jakarta
-  #   url: https://elearningsmkn34jkt.sch.id/
-  #   icon: https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png
-  - name: School Programs
-    url: https://schoolprograms.my.id/
-    icon: https://king-ulee.github.io/School-Programs/assets/images/stationery.png
-  - name: Status School Programs
-    url: https://status.schoolprograms.my.id/
-    icon: https://king-ulee.github.io/School-Programs/assets/images/stationery.png
-  - name: Crypto Mining
-    url: https://king-ulee.github.io/Crypto-Mining/
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png
   - name: Kingulee.com
     url: https://www.kingulee.com/
     icon: https://kingulee.com/images/logo.png
-  - name: Holobytes Hunter
-    url: https://king-ulee.github.io/holobyte.github.io/
-    icon: https://www.holopin.io/images/logo.png
-  - name: Google
-    url: https://google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.schoolprograms.my.id
+  cname: status.azriel.id
   # baseUrl: /Status-Page-Advanced
-  faviconSvg: https://schoolprograms.my.id/assets/images/favicon.ico
-  logoUrl: https://schoolprograms.my.id/assets/images/favicon.ico
-  theme: light
-  name: School Programs Status
-  introTitle: "School Programs Status is committed to creating an efficient bandwidth marketplace on Web3."
+  faviconSvg: https://kingulee.com/images/logo.png
+  logoUrl: https://kingulee.com/images/logo.png
+  theme: night
+  name: Status
+  introTitle: "Monitoring Website"
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/King-Ulee/Status-Page-Advanced).
   navbar:
     - title: Home
@@ -46,6 +29,6 @@ status-website:
       href: https://discord.gg/VzUR95y
 
 i18n:
-  footer: This page is hosted on GitHub [King Ulee]($REPO) project since @2023-09-10, & created by [King Ulee](https://king-ulee.github.io/Status-Page-Advanced/).
+  footer: This page is hosted on GitHub [King Ulee]($REPO) project since @2023-09-10, & created by [King Ulee](https://www.kingulee.com/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

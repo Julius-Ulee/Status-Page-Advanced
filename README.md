@@ -30,5 +30,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [King Ulee](https://king-ulee.github.io/)
+- Code: [MIT](./LICENSE) © [King Ulee](https://www.kingulee.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

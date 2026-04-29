@@ -1,61 +1,5 @@
 [
   {
-    "name": "School Programs",
-    "url": "https://schoolprograms.my.id/",
-    "icon": "https://king-ulee.github.io/School-Programs/assets/images/stationery.png",
-    "slug": "school-programs",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 348,
-    "timeWeek": 294,
-    "timeMonth": 340,
-    "timeYear": 289,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Status School Programs",
-    "url": "https://status.schoolprograms.my.id/",
-    "icon": "https://king-ulee.github.io/School-Programs/assets/images/stationery.png",
-    "slug": "status-school-programs",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 356,
-    "timeWeek": 324,
-    "timeMonth": 339,
-    "timeYear": 292,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Crypto Mining",
-    "url": "https://king-ulee.github.io/Crypto-Mining/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
-    "slug": "crypto-mining",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
-    "time": 92,
-    "timeDay": 153,
-    "timeWeek": 156,
-    "timeMonth": 154,
-    "timeYear": 102,
-    "dailyMinutesDown": {
-      "2026-04-14": 120
-    }
-  },
-  {
     "name": "Kingulee.com",
     "url": "https://www.kingulee.com/",
     "icon": "https://kingulee.com/images/logo.png",
@@ -66,51 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 115,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 339,
+    "timeDay": 303,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Holobytes Hunter",
-    "url": "https://king-ulee.github.io/holobyte.github.io/",
-    "icon": "https://www.holopin.io/images/logo.png",
-    "slug": "holobytes-hunter",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
-    "time": 58,
-    "timeDay": 110,
-    "timeWeek": 61,
-    "timeMonth": 78,
-    "timeYear": 61,
-    "dailyMinutesDown": {
-      "2026-04-14": 120
-    }
-  },
-  {
-    "name": "Google",
-    "url": "https://google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
-    "time": 197,
-    "timeDay": 231,
-    "timeWeek": 186,
-    "timeMonth": 209,
-    "timeYear": 199,
-    "dailyMinutesDown": {
-      "2026-04-01": 78
-    }
   }
 ]
